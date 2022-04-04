@@ -1,0 +1,27 @@
+ul li {
+    list-style-type: none;
+}
+
+body {
+    font-size: 20px;
+    color: #32b9d1;
+    background-image: url(https://wildcodylife.files.wordpress.com/2021/08/to-do-list.jpg);
+    background-size: cover;
+    
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:  100vh;
+}
+
+.add-task {
+    background-color: #32b9d1;
+}
+
+.container{
+    margin-top: 15%;
+}
+
